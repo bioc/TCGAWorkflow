@@ -66,7 +66,7 @@ Imports:
     RTCGAToolbox,
     SummarizedExperiment,
     TCGAbiolinks,
-    TCGAWorkflowData (>= 1.9.0),
+    TCGAWorkflowData (>= 1.8.0),
     DT
 License: Artistic-2.0
 VignetteBuilder: knitr
